@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 5b5aeb6b29b5a1145aa1f7ac2120ef52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5503460646655229670
+    second: Flags_0
+  - first:
+      213: -4537281551234122163
+    second: Flags_1
+  - first:
+      213: -832950750342307448
+    second: Flags_2
+  - first:
+      213: -8826277111835509526
+    second: Flags_3
+  - first:
+      213: -5947672368319390862
+    second: Flags_4
+  - first:
+      213: 150133700988709528
+    second: Flags_5
+  - first:
+      213: -3052584668763156646
+    second: Flags_6
+  - first:
+      213: -2775086590558178504
+    second: Flags_7
+  - first:
+      213: 6802854109814865247
+    second: Flags_8
+  - first:
+      213: -3337940313547858475
+    second: Flags_9
+  - first:
+      213: 6712110169643338014
+    second: Flags_10
+  - first:
+      213: -4853436738066757157
+    second: Flags_11
+  - first:
+      213: 8517032579898320546
+    second: Flags_12
+  - first:
+      213: 3322692082085417317
+    second: Flags_13
+  - first:
+      213: 1075577977310654848
+    second: Flags_14
+  - first:
+      213: 7113066567066023071
+    second: Flags_15
+  - first:
+      213: 935575191710495921
+    second: Flags_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: USA
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 780
+        width: 339
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eb1ccf7765801c0800000000000000
+      internalID: -4537281551234122163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Canada
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 782
+        width: 341
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881a37aa4b3c074f0800000000000000
+      internalID: -832950750342307448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spain
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 785
+        width: 338
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec32ebfab3c28580800000000000000
+      internalID: -8826277111835509526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: France
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 781
+        width: 334
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b9aed3e7f957da0800000000000000
+      internalID: -5947672368319390862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Australia
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 543
+        width: 336
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a2f3c3ec1651200800000000000000
+      internalID: 150133700988709528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serbia
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 538
+        width: 343
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f8193ca6a03a5d0800000000000000
+      internalID: -3052584668763156646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Germay
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 547
+        width: 339
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83374dce279ec79d0800000000000000
+      internalID: -2775086590558178504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greece
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 545
+        width: 348
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d325215c7986e50800000000000000
+      internalID: 6802854109814865247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slovenia
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 317
+        width: 332
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd168158f04da1d0800000000000000
+      internalID: -3337940313547858475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lithuania
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 317
+        width: 343
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19c0e213a4362d50800000000000000
+      internalID: 6712110169643338014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Argentina
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 307
+        width: 339
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd943b7500125acb0800000000000000
+      internalID: -4853436738066757157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brazil
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 309
+        width: 333
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6a4499104923670800000000000000
+      internalID: 8517032579898320546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Italy
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 80
+        width: 331
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56154b228d29c1e20800000000000000
+      internalID: 3322692082085417317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Latvia
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 82
+        width: 343
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081b5d1c8783dee00800000000000000
+      internalID: 1075577977310654848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croatia
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 83
+        width: 339
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f947da92b50b6b260800000000000000
+      internalID: 7113066567066023071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: China
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 81
+        width: 341
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b472921ea4dbfc00800000000000000
+      internalID: 935575191710495921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f0f7aad848f21804482f08e01a4b5988
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Argentina: -4853436738066757157
+      Australia: 150133700988709528
+      Brazil: 8517032579898320546
+      Canada: -832950750342307448
+      China: 935575191710495921
+      Croatia: 7113066567066023071
+      Flags_0: 5503460646655229670
+      France: -5947672368319390862
+      Germay: -2775086590558178504
+      Greece: 6802854109814865247
+      Italy: 3322692082085417317
+      Latvia: 1075577977310654848
+      Lithuania: 6712110169643338014
+      Serbia: -3052584668763156646
+      Slovenia: -3337940313547858475
+      Spain: -8826277111835509526
+      USA: -4537281551234122163
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

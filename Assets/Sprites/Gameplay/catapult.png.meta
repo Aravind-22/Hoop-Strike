@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: b521d0b424d7eb64a8963e0cb47ae788
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -154139334052807852
+    second: catapult_0
+  - first:
+      213: -7919609493557788032
+    second: catapult_1
+  - first:
+      213: -3510142580684404535
+    second: catapult_2
+  - first:
+      213: 2668676513185622867
+    second: catapult_3
+  - first:
+      213: -302479304773323811
+    second: catapult_4
+  - first:
+      213: -7793877828849531178
+    second: catapult_5
+  - first:
+      213: 8481617072705028402
+    second: catapult_6
+  - first:
+      213: 3127321175080923773
+    second: catapult_7
+  - first:
+      213: 9011401009515647981
+    second: catapult_8
+  - first:
+      213: -2073921771140859325
+    second: catapult_9
+  - first:
+      213: 261231100906367292
+    second: catapult_10
+  - first:
+      213: 6618843709563300630
+    second: catapult_11
+  - first:
+      213: 3993911045683549722
+    second: catapult_12
+  - first:
+      213: -4518907684160156300
+    second: catapult_13
+  - first:
+      213: -4454980073584192655
+    second: catapult_14
+  - first:
+      213: -1433081457022339093
+    second: catapult_15
+  - first:
+      213: -7846112131602866517
+    second: catapult_16
+  - first:
+      213: 4398000264069578100
+    second: catapult_17
+  - first:
+      213: -1430059675694847041
+    second: catapult_18
+  - first:
+      213: -404085983494849595
+    second: catapult_19
+  - first:
+      213: 238262696497030807
+    second: catapult_20
+  - first:
+      213: -689178617594434593
+    second: catapult_21
+  - first:
+      213: 6008885419927792673
+    second: catapult_22
+  - first:
+      213: -4165469906681285752
+    second: catapult_23
+  - first:
+      213: -5599672859420499126
+    second: catapult_24
+  - first:
+      213: -1009470468333944531
+    second: catapult_25
+  - first:
+      213: -4125552000755513770
+    second: catapult_26
+  - first:
+      213: 5473650034071326773
+    second: catapult_27
+  - first:
+      213: 1352471134865993332
+    second: catapult_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: catapult_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 507
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bfdd3a7136cddf0800000000000000
+      internalID: -154139334052807852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catapult_1
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 39
+        width: 758
+        height: 726
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0824da02025e71290800000000000000
+      internalID: -7919609493557788032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1bce1a18b7e15ee44a1a6576f130262b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      catapult_0: -154139334052807852
+      catapult_1: -7919609493557788032
+      catapult_10: 261231100906367292
+      catapult_11: 6618843709563300630
+      catapult_12: 3993911045683549722
+      catapult_13: -4518907684160156300
+      catapult_14: -4454980073584192655
+      catapult_15: -1433081457022339093
+      catapult_16: -7846112131602866517
+      catapult_17: 4398000264069578100
+      catapult_18: -1430059675694847041
+      catapult_19: -404085983494849595
+      catapult_2: -3510142580684404535
+      catapult_20: 238262696497030807
+      catapult_21: -689178617594434593
+      catapult_22: 6008885419927792673
+      catapult_23: -4165469906681285752
+      catapult_24: -5599672859420499126
+      catapult_25: -1009470468333944531
+      catapult_26: -4125552000755513770
+      catapult_27: 5473650034071326773
+      catapult_28: 1352471134865993332
+      catapult_3: 2668676513185622867
+      catapult_4: -302479304773323811
+      catapult_5: -7793877828849531178
+      catapult_6: 8481617072705028402
+      catapult_7: 3127321175080923773
+      catapult_8: 9011401009515647981
+      catapult_9: -2073921771140859325
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

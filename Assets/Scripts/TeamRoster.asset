@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a91de7b48911434ea8bc03f1c9daa17, type: 3}
+  m_Name: TeamRoster
+  m_EditorClassIdentifier: Assembly-CSharp::TeamRoster
+  teamNames:
+  - USA
+  - CAN
+  - ESP
+  - FRA
+  - AUS
+  - SER
+  - GER
+  - GRE
+  - SLO
+  - LTH
+  - ARG
+  - BRA
+  - ITA
+  - LAT
+  - CRO
+  - CHN
+  teamFlags:
+  - {fileID: -4537281551234122163, guid: 5b5aeb6b29b5a1145aa1f7ac2120ef52, type: 3}
+  - {fileID: -832950750342307448, guid: 5b5aeb6b29b5a1145aa1f7ac2120ef52, type: 3}
+  - {fileID: -8826277111835509526, guid: 5b5aeb6b29b5a1145aa1f7ac2120ef52, type: 3}
+  - {fileID: -5947672368319390862, guid: 5b5aeb6b29b5a1145aa1f7ac2120ef52, type: 3}
+  - {fileID: 150133700988709528, guid: 5b5aeb6b29b5a1145aa1f7ac2120ef52, type: 3}
+  - {fileID: -3052584668763156646, guid: 5b5aeb6b29b5a1145aa1f7ac2120ef52, type: 3}
+  - {fileID: -2775086590558178504, guid: 5b5aeb6b29b5a1145aa1f7ac2120ef52, type: 3}
+  - {fileID: 6802854109814865247, guid: 5b5aeb6b29b5a1145aa1f7ac2120ef52, type: 3}
+  - {fileID: -3337940313547858475, guid: 5b5aeb6b29b5a1145aa1f7ac2120ef52, type: 3}
+  - {fileID: 6712110169643338014, guid: 5b5aeb6b29b5a1145aa1f7ac2120ef52, type: 3}
+  - {fileID: -4853436738066757157, guid: 5b5aeb6b29b5a1145aa1f7ac2120ef52, type: 3}
+  - {fileID: 8517032579898320546, guid: 5b5aeb6b29b5a1145aa1f7ac2120ef52, type: 3}
+  - {fileID: 3322692082085417317, guid: 5b5aeb6b29b5a1145aa1f7ac2120ef52, type: 3}
+  - {fileID: 1075577977310654848, guid: 5b5aeb6b29b5a1145aa1f7ac2120ef52, type: 3}
+  - {fileID: 7113066567066023071, guid: 5b5aeb6b29b5a1145aa1f7ac2120ef52, type: 3}
+  - {fileID: 935575191710495921, guid: 5b5aeb6b29b5a1145aa1f7ac2120ef52, type: 3}
